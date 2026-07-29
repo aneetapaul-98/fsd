@@ -1,5 +1,7 @@
 # fsd
 Aneeta Paul
-Final year, Section 2
+305cs24007
+5th sem
+Final year, Section 1
 CSE
 DSIT
